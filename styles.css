@@ -1,0 +1,76 @@
+.bodi{
+    background-image: url(data:image/jpeg;base64,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);
+    background-position: center;
+    background-size:cover;
+}
+p{
+    color: rgb(0, 137, 158);
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    /* text-decoration: rgb(200, 244, 0) dashed underline; */
+    border-style: dashed;
+    border-color: white;
+    padding: 5px;
+    background: linear-gradient(to top, grey, black);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 25px;
+    box-shadow: 0px 0px 8px white;
+}
+h1{
+    color: rgb(9, 158, 44);
+    text-align: center;
+    font-family: "press start 2p",sans-serif;
+    text-shadow: blue;
+    text-shadow: 0px 5px 5px grey,0px -5px 5px grey ;
+
+}
+a{
+    color: green;
+    font-family: "press start 2p";
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    display:block;
+    text-align: center;
+    margin: 5px;
+}
+a:hover{
+color: rgb(0, 169, 166);
+}
+.fa-github,
+.fa-linkedin {
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 10px;
+}
+.fa-github {
+    color: orange;
+}
+.fa-linkedin {
+    color: rgb(164, 142, 255);
+}
+
+h5{
+    color:#a3a3ff;
+    text-align: center;
+    font-family: "press start 2p";
+    animation: changeColor;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+/* scale x, skew y, skew x, scale y, transform x , transform y*/
+
+
+@keyframes changeColor{
+    0%{color: red}
+    20%{color: pink}
+    40%{color: yellow}
+    60%{color: green}
+    80%{color:blue}
+    100%{color: burlywood}
+}
